@@ -1,0 +1,16 @@
+_Android app, that counts your daily steps_
+
+h2. Features
+
+It counts your daily steps by using the sensors in the phone.
+
+h2. Changelog
+
+h2. Installation
+
+h2. License
+
+"GNU General Public License, version 3":http://www.gnu.org/licenses/gpl.html
+
+h2. Links
+
